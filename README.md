@@ -1,3 +1,8 @@
+# Job Recommendation
+
+- **Post New Jobs**: we can post new jobs 
+- **Get Job Recommendation**: Get some job recommendation on the basis of what ever details we have provided , and if no job found according to the given data then simply show a message
+
 ### Installation
 
 1. **Clone the repository**:
